@@ -1,8 +1,8 @@
 # Deep Learning Papers for Fish
 
-###I just download all pappers by hands according to this [guy's blog (Deep Learning Papers Reading Roadmap)](https://github.com/songrotek/Deep-Learning-Papers-Reading-Roadmap), because deeply I know how hard for a man in China to download these via the GW. And now I'am just posting all pappers here in pdf format for domestic guys to directly use.
+**I just download all pappers by hands according to this [guy's blog (Deep Learning Papers Reading Roadmap)](https://github.com/songrotek/Deep-Learning-Papers-Reading-Roadmap), because deeply I know how hard for a man in China to download these via the GW. And now I'am just posting all pappers here in pdf format for domestic guys to directly use.**
 
-#---------------------------------------
+---------------------------------------
 
 >If you are a newcomer to the Deep Learning area, the first question you may have is "Which paper should I start reading from?"
 
